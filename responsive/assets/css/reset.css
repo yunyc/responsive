@@ -1,0 +1,21 @@
+/*  여백 등 초기화  */
+body, #wrapper ul,#wrapper li,#wrapper h1,#wrapper h2,#wrapper h3,#wrapper button,#wrapper a {
+    margin: 0;
+    padding: 0;
+    border: none;
+    list-style: none;
+    text-decoration: none;
+    color: #000;
+}
+
+/*  메뉴 왼쪽 정렬 설정  */
+body li {
+    float: left;
+}
+
+/*  container 설정  */
+body #container {
+    width: 90%;
+    height: 100%;
+    margin: auto;
+}

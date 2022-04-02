@@ -1,7 +1,7 @@
 $(function () {
 
 
-    // 테스트 변경
+    // ㅓㅗㅓㅗㅓㅗㅓㅗㅓㅗㅓㅓㅓㅓㅓ
     $(".nav_menu").hover(function () {
         $(".dropdown").slideToggle(500);
     });
